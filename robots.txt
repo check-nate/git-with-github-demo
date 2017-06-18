@@ -9,3 +9,4 @@ Disallow:
 # some line
 #git pull demo
 # git push demo
+# test ssh connectivity
